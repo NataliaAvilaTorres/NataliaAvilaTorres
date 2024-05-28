@@ -24,6 +24,7 @@
      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+     <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" width="80" height="40" alt="SQL" />
 
   
 - **Front-End Development**:
@@ -39,9 +40,10 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-    
-
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/375px-Apache_NetBeans_Logo.svg.png" width="40" height="40" alt="Git"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/300px-Postgresql_elephant.svg.png" width="40" height="40" alt="Git"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt="Git"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/375px-PyCharm_Icon.svg.png" width="40" height="40" alt="Git"/>
 <br>
 </p>
 
