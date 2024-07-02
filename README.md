@@ -43,7 +43,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/375px-Apache_NetBeans_Logo.svg.png" width="40" height="40" alt="Git"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/300px-Postgresql_elephant.svg.png" width="40" height="40" alt="Git"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt="Git"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/375px-PyCharm_Icon.svg.png" width="40" height="40" alt="Git"/>
 <br>
 </p>
 
