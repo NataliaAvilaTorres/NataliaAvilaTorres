@@ -23,7 +23,6 @@
     
      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-     <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
      <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" width="80" height="40" alt="SQL" />
 
   
